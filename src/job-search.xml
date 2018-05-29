@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?> 
+<job-search>
+  <jobs count="20" start="0" total="1206">
+    <job>
+      <id>30846355</id>
+      <url>http://www.saramin.co.kr/zf_user/recruit/recruit-view/idx/30846355#utm_source=job-search-api&amp;utm_medium=api&amp;utm_campaign=saramin-job-search-api</url>
+      <active>1</active>
+      <posting-timestamp>1495700000</posting-timestamp>
+      <modification-timestamp>1495700873</modification-timestamp>
+      <opening-timestamp>1495638000</opening-timestamp>
+      <expiration-timestamp>1496584800</expiration-timestamp>
+      <close-type code="1">접수마감일</close-type>
+      <company>
+        <name href="http://www.saramin.co.kr/zf_user/bbs-tong/view/com_idx/3447#utm_source=job-search-api&amp;utm_medium=api&amp;utm_campaign=saramin-job-search-api"><![CDATA[(주)인팩]]></name>
+      </company>
+      <position>
+        <title><![CDATA[케이블 인사·경리 경력직 채용공고]]></title>
+        <location code="114060"><![CDATA[충북 &gt; 음성군]]></location>
+        <job-type code=""></job-type>
+        <industry code="213">기타제조업</industry>
+        <job-category code="103,113,114">경리·출납·결산, 인사·교육·노무, 회계·재무·세무·IR</job-category>
+                <open-quantity>0</open-quantity>
+        <experience-level code="3" min="3" max="15">신입/경력</experience-level>
+        <required-education-level code="7">대학졸업(2,3년)이상</required-education-level>
+      </position>
+            <keyword>기타제조업,경리,인사,회계</keyword>
+      <salary code="0">회사내규에 따름</salary>
+    </job>
+    <job>
+      <id>30846283</id>
+      <url>http://www.saramin.co.kr/zf_user/recruit/recruit-view/idx/30846283#utm_source=job-search-api&amp;utm_medium=api&amp;utm_campaign=saramin-job-search-api</url>
+      <active>1</active>
+      <posting-timestamp>1495699624</posting-timestamp>
+      <modification-timestamp>1495701105</modification-timestamp>
+      <opening-timestamp>1495638000</opening-timestamp>
+      <expiration-timestamp>1496847599</expiration-timestamp>
+      <close-type code="1">접수마감일</close-type>
+      <company>
+        <name ><![CDATA[한국해양과학기술원]]></name>
+      </company>
+      <position>
+        <title><![CDATA[해양방위연구센터 인턴연구원 채용]]></title>
+        <location code="106140"><![CDATA[부산 &gt; 영도구]]></location>
+        <job-type code="4">인턴직</job-type>
+        <industry code="1005">연구소·컨설팅·조사</industry>
+        <job-category code="102,302,308">총무·법무·사무, 기계·기계설비, 전기·전자·제어</job-category>
+                <open-quantity>0</open-quantity>
+        <experience-level code="3" min="0" max="0">신입/경력</experience-level>
+        <required-education-level code="8">대학교졸업(4년)이상</required-education-level>
+      </position>
+            <keyword>사무,기계,전기·전자회로</keyword>
+      <salary code="0">회사내규에 따름</salary>
+    </job>
+    <job>
+      <id>30846164</id>
+      <url>http://www.saramin.co.kr/zf_user/recruit/recruit-view/idx/30846164#utm_source=job-search-api&amp;utm_medium=api&amp;utm_campaign=saramin-job-search-api</url>
+      <active>1</active>
+      <posting-timestamp>1495699079</posting-timestamp>
+      <modification-timestamp>1495700441</modification-timestamp>
+      <opening-timestamp>1495638000</opening-timestamp>
+      <expiration-timestamp>1498229999</expiration-timestamp>
+      <close-type code="1">접수마감일</close-type>
+      <company>
+        <name href="http://www.saramin.co.kr/zf_user/bbs-tong/view/com_idx/3884#utm_source=job-search-api&amp;utm_medium=api&amp;utm_campaign=saramin-job-search-api"><![CDATA[SK텔링크(주)]]></name>
+      </company>
+      <position>
+        <title><![CDATA[정책개발 경력사원 채용]]></title>
+        <location code="101240"><![CDATA[서울 &gt; 중구]]></location>
+        <job-type code="1">정규직</job-type>
+        <industry code="306">네트워크·통신·모바일</industry>
+        <job-category code="102">총무·법무·사무</job-category>
+                <open-quantity>0</open-quantity>
+        <experience-level code="2" min="3" max="0">경력3년↑</experience-level>
+        <required-education-level code="8">대학교졸업(4년)이상</required-education-level>
+      </position>
+            <keyword>통신,사무</keyword>
+      <salary code="0">회사내규에 따름</salary>
+    </job>
+    <job>
+      <id>30846080</id>
+      <url>http://www.saramin.co.kr/zf_user/recruit/recruit-view/idx/30846080#utm_source=job-search-api&amp;utm_medium=api&amp;utm_campaign=saramin-job-search-api</url>
+      <active>1</active>
+      <posting-timestamp>1495698731</posting-timestamp>
+      <modification-timestamp>1495700702</modification-timestamp>
+      <opening-timestamp>1495638000</opening-timestamp>
+      <expiration-timestamp>1496847599</expiration-timestamp>
+      <close-type code="1">접수마감일</close-type>
+      <company>
+        <name href="http://www.saramin.co.kr/zf_user/bbs-tong/view/com_idx/38456#utm_source=job-search-api&amp;utm_medium=api&amp;utm_campaign=saramin-job-search-api"><![CDATA[SK바이오팜(주)]]></name>
+      </company>
+      <position>
+        <title><![CDATA[전략기획원 채용]]></title>
+        <location code="102190"><![CDATA[경기 &gt; 성남시 분당구]]></location>
+        <job-type code="1">정규직</job-type>
+        <industry code="703">제약·보건·바이오</industry>
+        <job-category code="101,119,209">기획·전략·경영, 마케팅·광고·분석, 영업기획·관리·지원</job-category>
+                <open-quantity>0</open-quantity>
+        <experience-level code="2" min="6" max="0">경력6년↑</experience-level>
+        <required-education-level code="8">대학교졸업(4년)이상</required-education-level>
+      </position>
+            <keyword>전략기획,사업기획,마케팅전략·기획,시장조사·분석,영업관리</keyword>
+      <salary code="0">회사내규에 따름</salary>
+    </job>
+    <job>
+      <id>30845496</id>
+      <url>http://www.saramin.co.kr/zf_user/recruit/recruit-view/idx/30845496#utm_source=job-search-api&amp;utm_medium=api&amp;utm_campaign=saramin-job-search-api</url>
+      <active>1</active>
+      <posting-timestamp>1495696095</posting-timestamp>
+      <modification-timestamp>1495699210</modification-timestamp>
+      <opening-timestamp>1495677600</opening-timestamp>
+      <expiration-timestamp>1496761199</expiration-timestamp>
+      <close-type code="1">접수마감일</close-type>
+      <company>
+        <name href="http://www.saramin.co.kr/zf_user/bbs-tong/view/com_idx/29649#utm_source=job-search-api&amp;utm_medium=api&amp;utm_campaign=saramin-job-search-api"><![CDATA[(주)제주항공]]></name>
+      </company>
+      <position>
+        <title><![CDATA[신입 수시채용-경영분석]]></title>
+        <location code="101040"><![CDATA[서울 &gt; 강서구]]></location>
+        <job-type code=""></job-type>
+        <industry code="108">호텔·여행·항공</industry>
+        <job-category code="113,501">인사·교육·노무, 경영분석·컨설턴트</job-category>
+                <open-quantity>0</open-quantity>
+        <experience-level code="1" min="0" max="0">신입</experience-level>
+        <required-education-level code="8">대학교졸업(4년)이상</required-education-level>
+      </position>
+            <keyword>항공사,성과관리,경영분석</keyword>
+      <salary code="0">회사내규에 따름</salary>
+    </job>
+    <job>
+      <id>30845231</id>
+      <url>http://www.saramin.co.kr/zf_user/recruit/recruit-view/idx/30845231#utm_source=job-search-api&amp;utm_medium=api&amp;utm_campaign=saramin-job-search-api</url>
+      <active>1</active>
+      <posting-timestamp>1495694891</posting-timestamp>
+      <modification-timestamp>1495697772</modification-timestamp>
+      <opening-timestamp>1495638000</opening-timestamp>
+      <expiration-timestamp>1496242799</expiration-timestamp>
+      <close-type code="1">접수마감일</close-type>
+      <company>
+        <name href="http://www.saramin.co.kr/zf_user/bbs-tong/view/com_idx/31054#utm_source=job-search-api&amp;utm_medium=api&amp;utm_campaign=saramin-job-search-api"><![CDATA[이투스교육]]></name>
+      </company>
+      <position>
+        <title><![CDATA[IT사업지원실 정보보안팀 사내전산관리 경력직 채용]]></title>
+        <location code="101150"><![CDATA[서울 &gt; 서초구]]></location>
+        <job-type code="1">정규직</job-type>
+        <industry code="601,602">초중고·대학, 학원·어학원</industry>
+        <job-category code="402,411">서버·네트워크·보안, 하드웨어·소프트웨어</job-category>
+                <open-quantity>0</open-quantity>
+        <experience-level code="2" min="2" max="0">경력2년↑</experience-level>
+        <required-education-level code="7">대학졸업(2,3년)이상</required-education-level>
+      </position>
+            <keyword>교육기관,입시학원,서버관리,네트워크관리,방화벽,보안,HW·하드웨어,SW·소프트웨어,유지보수</keyword>
+      <salary code="0">회사내규에 따름</salary>
+    </job>
+    <job>
+      <id>30845214</id>
+      <url>http://www.saramin.co.kr/zf_user/recruit/recruit-view/idx/30845214#utm_source=job-search-api&amp;utm_medium=api&amp;utm_campaign=saramin-job-search-api</url>
+      <active>1</active>
+      <posting-timestamp>1495694824</posting-timestamp>
+      <modification-timestamp>1495699043</modification-timestamp>
+      <opening-timestamp>1495638000</opening-timestamp>
+      <expiration-timestamp>1498834799</expiration-timestamp>
+      <close-type code="1">접수마감일</close-type>
+      <company>
+        <name href="http://www.saramin.co.kr/zf_user/bbs-tong/view/com_idx/33644#utm_source=job-search-api&amp;utm_medium=api&amp;utm_campaign=saramin-job-search-api"><![CDATA[콤텍그룹]]></name>
+      </company>
+      <position>
+        <title><![CDATA[2017년 경력사원 모집]]></title>
+        <location code="101200,104040,106130"><![CDATA[서울 &gt; 영등포구, 대구 &gt; 동구, 부산 &gt; 연제구]]></location>
+        <job-type code=""></job-type>
+        <industry code="313">IT컨설팅</industry>
+        <job-category code="205,209,402,411">IT·솔루션영업, 영업기획·관리·지원, 서버·네트워크·보안, 하드웨어·소프트웨어</job-category>
+                <open-quantity>0</open-quantity>
+        <experience-level code="3" min="0" max="0">신입/경력</experience-level>
+        <required-education-level code="0">학력무관</required-education-level>
+      </position>
+            <keyword>IT컨설팅,SI영업,영업관리,네트워크엔지니어,SW·소프트웨어,유지보수</keyword>
+      <salary code="0">회사내규에 따름</salary>
+    </job>
+    <job>
+      <id>30845118</id>
+      <url>http://www.saramin.co.kr/zf_user/recruit/recruit-view/idx/30845118#utm_source=job-search-api&amp;utm_medium=api&amp;utm_campaign=saramin-job-search-api</url>
+      <active>1</active>
+      <posting-timestamp>1495694293</posting-timestamp>
+      <modification-timestamp>1495698723</modification-timestamp>
+      <opening-timestamp>1495638000</opening-timestamp>
+      <expiration-timestamp>1497596400</expiration-timestamp>
+      <close-type code="1">접수마감일</close-type>
+      <company>
+        <name href="http://www.saramin.co.kr/zf_user/bbs-tong/view/com_idx/40749#utm_source=job-search-api&amp;utm_medium=api&amp;utm_campaign=saramin-job-search-api"><![CDATA[(사)이랜드복지재단]]></name>
+      </company>
+      <position>
+        <title><![CDATA[2017 인턴 2기 채용공고]]></title>
+        <location code="101190"><![CDATA[서울 &gt; 양천구]]></location>
+        <job-type code="4">인턴직</job-type>
+        <industry code="704">사회복지</industry>
+        <job-category code="102">총무·법무·사무</job-category>
+                <open-quantity>0</open-quantity>
+        <experience-level code="3" min="0" max="0">신입/경력</experience-level>
+        <required-education-level code="7">대학졸업(2,3년)이상</required-education-level>
+      </position>
+            <keyword>사무</keyword>
+      <salary code="0">회사내규에 따름</salary>
+    </job>
+    <job>
+      <id>30845093</id>
+      <url>http://www.saramin.co.kr/zf_user/recruit/recruit-view/idx/30845093#utm_source=job-search-api&amp;utm_medium=api&amp;utm_campaign=saramin-job-search-api</url>
+      <active>1</active>
+      <posting-timestamp>1495694210</posting-timestamp>
+      <modification-timestamp>1495694241</modification-timestamp>
+      <opening-timestamp>1495638000</opening-timestamp>
+      <expiration-timestamp>1496761199</expiration-timestamp>
+      <close-type code="1">접수마감일</close-type>
+      <company>
+        <name href="http://www.saramin.co.kr/zf_user/bbs-tong/view/com_idx/2726#utm_source=job-search-api&amp;utm_medium=api&amp;utm_campaign=saramin-job-search-api"><![CDATA[TJ미디어(주)]]></name>
+      </company>
+      <position>
+        <title><![CDATA[SW개발 경력 직원 모집]]></title>
+        <location code="101040"><![CDATA[서울 &gt; 강서구]]></location>
+        <job-type code="1">정규직</job-type>
+        <industry code="201">전기·전자·제어</industry>
+        <job-category code="407">응용프로그래머</job-category>
+                <open-quantity>0</open-quantity>
+        <experience-level code="2" min="0" max="10">경력10년↓</experience-level>
+        <required-education-level code="8">대학교졸업(4년)이상</required-education-level>
+      </position>
+            <keyword>전자,Linux계열,Java,Embedded,Application</keyword>
+      <salary code="0">회사내규에 따름</salary>
+    </job>
+    <job>
+      <id>30844975</id>
+      <url>http://www.saramin.co.kr/zf_user/recruit/recruit-view/idx/30844975#utm_source=job-search-api&amp;utm_medium=api&amp;utm_campaign=saramin-job-search-api</url>
+      <active>1</active>
+      <posting-timestamp>1495693598</posting-timestamp>
+      <modification-timestamp>1495695779</modification-timestamp>
+      <opening-timestamp>1495558800</opening-timestamp>
+      <expiration-timestamp>1496555100</expiration-timestamp>
+      <close-type code="1">접수마감일</close-type>
+      <company>
+        <name href="http://www.saramin.co.kr/zf_user/bbs-tong/view/com_idx/33336#utm_source=job-search-api&amp;utm_medium=api&amp;utm_campaign=saramin-job-search-api"><![CDATA[(주)GS ITM]]></name>
+      </company>
+      <position>
+        <title><![CDATA[데이터센터 인프라 운영 경력사원 모집]]></title>
+        <location code="101230"><![CDATA[서울 &gt; 종로구]]></location>
+        <job-type code=""></job-type>
+        <industry code="301">솔루션·SI·ERP·CRM</industry>
+        <job-category code="402,407,416">서버·네트워크·보안, 응용프로그래머, 데이터베이스·DBA</job-category>
+                <open-quantity>0</open-quantity>
+        <experience-level code="2" min="0" max="0">경력</experience-level>
+        <required-education-level code="0">학력무관</required-education-level>
+      </position>
+            <keyword>소프트웨어개발,서버관리,Application,데이터베이스,Oracle,MS-SQL,DB2</keyword>
+      <salary code="0">회사내규에 따름</salary>
+    </job>
+  </jobs>
+</job-search>
